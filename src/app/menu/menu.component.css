@@ -1,0 +1,10 @@
+nav a{
+    font-size: 25px;
+}
+nav img{
+    border-radius: 20px;
+    border: none;
+    max-width: 200px;
+    margin: 10px;
+    
+}

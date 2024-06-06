@@ -1,0 +1,52 @@
+.custom-background {
+    background-color: rgba(114, 55, 7, 0.929);
+}
+.teoria {
+    text-align: justify;
+    
+}
+
+.teoria h1, .teoria h2, .teoria p {
+    max-width: 1300px; /* Ancho máximo para títulos y párrafos */
+    margin: 0 auto; /* Centrar horizontalmente */
+}
+.teoria h1, .metodos h1{
+    margin-bottom: 15px;
+    text-align: center;
+    color: rgb(255, 115, 0);
+    border-bottom: 2px solid rgb(211, 191, 174);
+}
+.teoria h2{
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    color: rgba(255, 115, 1, 0.943);
+    border: 2px solid rgb(211, 191, 174);
+}
+.teoria p{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.btn-custom{
+    background-color: #c18256; 
+    color: #ffffff; 
+    border: 2px solid #eee7d8; 
+    border-radius: 10px
+}
+.modal-body img{
+    margin: 10px;
+    width: 450px;
+    height: 600px;
+}
+.modal-body p{
+    font-size: 15px;
+    font-weight: 60px;
+}
+.list-group-item h5, list-group-item p{
+  font-size: 25px;
+}
+.metodos{
+    max-width: 1300px;
+    margin:0 auto;
+}
